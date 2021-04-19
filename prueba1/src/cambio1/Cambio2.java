@@ -8,5 +8,4 @@ public class Cambio2 {
 		System.out.println("segunda linea en cambio 2");
 		
 	}
-
 }
